@@ -8,9 +8,22 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will have to install Scrapy in order to use it.
+You will have to install Scrapy (and needed dependencies) in order to use it.
 
 You can run
 ```
 sh install-dependencies
 ```
+or
+```
+pip install --user Scrapy
+```
+
+### How to use
+
+In order to run you will have to ```cd spiders``` and run ```scrapy crawl cordis -o "filename"."extension"```
+
+
+## Authors
+
+* **Simon Hardy**
