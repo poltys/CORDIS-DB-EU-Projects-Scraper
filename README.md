@@ -21,7 +21,7 @@ pip install --user Scrapy
 
 ### How to use
 
-In order to run you will have to ```cd spiders``` and run ```scrapy crawl cordis -o "filename"."extension"```
+Run ```scrapy crawl cordis -o "filename"."extension"```
 
 
 ## Authors
