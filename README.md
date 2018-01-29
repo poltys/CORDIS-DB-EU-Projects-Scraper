@@ -56,6 +56,6 @@ Scrapy gives you the opportunity to download your data in different formats: csv
 * Add Cron jobs
 * Add pipelines
 
-## Authors
+## Author
 
 * **Simon Hardy** - *Initial work* - [poltys](https://github.com/poltys)
