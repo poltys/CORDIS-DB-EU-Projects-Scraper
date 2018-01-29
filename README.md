@@ -15,6 +15,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
+First clone ```git clone https://github.com/poltys/CORDIS-DB-EU-Projects-Scraper.git```
+
 You will have to install Scrapy (and needed dependencies) in order to use it.
 
 You can run ```sh install-dependencies``` or ```pip install --user Scrapy```
