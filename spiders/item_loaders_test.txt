@@ -1,0 +1,20 @@
+"""
+    def parse(self, response):
+        l = ItemLoader(item=CordisItem(), response=response)
+        l.add_xpath('Project_ACR', '//*[@id="dynamiccontent"]/div[1]/h1/text()')
+        l.add_xpath('Project_Title', '//*[@id="dynamiccontent"]/h2/text()')
+        l.add_xpath('Total_Cost', '//*[@id="dynamiccontent"]/div[3]/div/div[1]/div[1]/text()')
+        l.add_xpath('EU_Contribution', '//*[@id="dynamiccontent"]/div[3]/div/div[1]/div[2]/text()')
+        l.add_xpath('Coordinated_in', '//*[@id="dynamiccontent"]/div[3]/div/div[1]/div[3]/text()')
+        l.add_xpath('Topic_s', '//*[@id="dynamiccontent"]/div[3]/div/div[2]/div[1]/a/text()')
+        l.add_xpath('Call_for_Proposal', '//*[@id="dynamiccontent"]/div[3]/div/div[2]/div[2]/text()')
+        l.add_xpath('Funding_scheme', '//*[@id="dynamiccontent"]/div[3]/div/div[2]/div[3]/text()'
+        #l.add_xpath('Project_ID', '
+        l.add_xpath('To', 'normalize-space(.//*[@id="dynamiccontent"]/div[2]/text()[3])')
+        l.add_xpath('From', 'normalize-space(.//*[@id="dynamiccontent"]/div[2]/text()[2])')
+        #l.add_xpath('Partners', '
+        #l.add_xpath('Country', '
+        #l.add_xpath('Activity', '
+
+        return l.load_item()
+"""
