@@ -39,4 +39,16 @@ Scrapy gives you the opportunity to download your data in different format: csv,
   "From": ["2017-06-01"],
   "Project_ID": ["740610"],
   "Call_for_Proposal": ["CIP-2016-2017-1"]
-}]
+}]```
+```
+
+## TODO
+
+* Update ```install-dependencies.sh```
+* Clean ```cordis_spider.py```
+* Add Cron jobs
+* Add pipelines
+
+## Authors
+
+* **Simon Hardy** - *Initial work* - [poltys](https://github.com/poltys)
