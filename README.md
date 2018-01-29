@@ -1,6 +1,13 @@
 # CORDIS-DB-EU-Projects-Scraper
 
-This project aims to download information about European Funded Projects from the CORDIS DB.
+This project aims to download information about European Funded Projects from the [CORDIS DB](http://cordis.europa.eu/home_en.html).
+
+### Goals
+
+* Conduct statistical analyses
+* Data-Journalism
+* Create an 'almost' ready-to-use DB
+* etc
 
 ## Getting Started
 
@@ -18,9 +25,9 @@ Run ```scrapy crawl cordis -o "filename"."extension"```.
 
 If you want to download information about a specific project you will have to change the following ```start_urls = ['http://cordis.europa.eu/project/rcn/%d_en.html' %(n) for n in range(210216, 210217)]``` in ```spiders/cordis_spider.py```.
 
-### Data Sample
+### Data Sample [STOP-IT H2020 Project](http://cordis.europa.eu/project/rcn/210216_en.html)
 
-Scrapy gives you the opportunity to download your data in different format: csv, jl, json, xml.
+Scrapy gives you the opportunity to download your data in different formats: csv, jl, json, xml.
 
 ```[{
   "Partners": ["STIFTELSEN SINTEF", "IWW RHEINISCH WESTFALISCHES INSTITUT FUR WASSERFORSCHUNG GEMEINNUTZIGE GMBH", "CETAQUA, CENTRO TECNOLOGICO DEL AGUA, FUNDACION PRIVADA", "KWR WATER B.V.", "FUNDACIO EURECAT", "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY", "ATOS SPAIN SA", "MEKOROT WATER COMPANY LIMITED", "AIGUES DE BARCELONA, EMPRESA METROPOLITANA DE GESTIO DEL CICLE INTEGRAL DE L'AIGUA SA", "HESSENWASSER GMBH & CO. KG", "OSLO KOMMUNE", "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS", "BERGEN KOMMUNE", "BERLINER WASSERBETRIEBE", "EUROPEAN WATER SUPPLY AND SANITATION TECHNOLOGY PLATFORM", "PNO INNOVATION", "BEIT TOCHNA APLICATZIA LTD", "EMPRESA MUNICIPAL DE ABASTECIMIENTO Y SANEAMIENTO DE GRANADA SA", "WORLDSENSING SL", "RISA SICHERHEITSANALYSEN GMBH", "MNEMONIC AS", "VLAAMSE MAATSCHAPPIJ VOORWATERVOORZIENING CVBA"],
