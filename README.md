@@ -64,4 +64,4 @@ Scrapy gives you the opportunity to download your data in different formats: csv
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT [License](LICENSE)
