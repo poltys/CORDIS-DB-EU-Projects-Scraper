@@ -30,8 +30,8 @@ If you want to download information about a specific project you will have to ch
 ### Data Sample [STOP-IT H2020 Project](http://cordis.europa.eu/project/rcn/210216_en.html)
 
 Scrapy gives you the opportunity to download your data in different formats: csv, jl, json, xml.
-
-```[{
+```
+[{
   "Partners": ["STIFTELSEN SINTEF", "IWW RHEINISCH WESTFALISCHES INSTITUT FUR WASSERFORSCHUNG GEMEINNUTZIGE GMBH", "CETAQUA, CENTRO TECNOLOGICO DEL AGUA, FUNDACION PRIVADA", "KWR WATER B.V.", "FUNDACIO EURECAT", "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY", "ATOS SPAIN SA", "MEKOROT WATER COMPANY LIMITED", "AIGUES DE BARCELONA, EMPRESA METROPOLITANA DE GESTIO DEL CICLE INTEGRAL DE L'AIGUA SA", "HESSENWASSER GMBH & CO. KG", "OSLO KOMMUNE", "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS", "BERGEN KOMMUNE", "BERLINER WASSERBETRIEBE", "EUROPEAN WATER SUPPLY AND SANITATION TECHNOLOGY PLATFORM", "PNO INNOVATION", "BEIT TOCHNA APLICATZIA LTD", "EMPRESA MUNICIPAL DE ABASTECIMIENTO Y SANEAMIENTO DE GRANADA SA", "WORLDSENSING SL", "RISA SICHERHEITSANALYSEN GMBH", "MNEMONIC AS", "VLAAMSE MAATSCHAPPIJ VOORWATERVOORZIENING CVBA"],
   "EU_Contribution": ["EUR 8 255 319,50"],
   "Project_Title": ["Strategic, Tactical, Operational Protection of water Infrastructure against cyber-physical Threats"],
@@ -48,7 +48,7 @@ Scrapy gives you the opportunity to download your data in different formats: csv
   "From": ["2017-06-01"],
   "Project_ID": ["740610"],
   "Call_for_Proposal": ["CIP-2016-2017-1"]
-}]```
+}]
 ```
 
 ## TODO
