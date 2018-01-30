@@ -61,3 +61,7 @@ Scrapy gives you the opportunity to download your data in different formats: csv
 ## Author
 
 * **Simon Hardy** - *Initial work* - [poltys](https://github.com/poltys)
+
+## License
+
+This project is licensed under the MIT License 
