@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import scrapy
 from scrapy.loader import ItemLoader
 from CORDIS.items import CordisItem
