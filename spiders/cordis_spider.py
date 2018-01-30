@@ -31,24 +31,3 @@ class CordisSpider(scrapy.Spider):
         #for eu in response.css('div.objective'):
             item['Technology_Description'] = response.css('p::text').extract_first()
             yield item
-"""
-    def parse(self, response):
-        l = ItemLoader(item=CordisItem(), response=response)
-        l.add_xpath('Project_ACR', '//*[@id="dynamiccontent"]/div[1]/h1/text()')
-        l.add_xpath('Project_Title', '//*[@id="dynamiccontent"]/h2/text()')
-        l.add_xpath('Total_Cost', '//*[@id="dynamiccontent"]/div[3]/div/div[1]/div[1]/text()')
-        l.add_xpath('EU_Contribution', '//*[@id="dynamiccontent"]/div[3]/div/div[1]/div[2]/text()')
-        l.add_xpath('Coordinated_in', '//*[@id="dynamiccontent"]/div[3]/div/div[1]/div[3]/text()')
-        l.add_xpath('Topic_s', '//*[@id="dynamiccontent"]/div[3]/div/div[2]/div[1]/a/text()')
-        l.add_xpath('Call_for_Proposal', '//*[@id="dynamiccontent"]/div[3]/div/div[2]/div[2]/text()')
-        l.add_xpath('Funding_scheme', '//*[@id="dynamiccontent"]/div[3]/div/div[2]/div[3]/text()')
-        #l.add_xpath('Project_ID', '//*[@id="dynamiccontent"]/div[1]/text()'.re('[.0-9]+')')  map(unicode.strip, response.xpath('.//*[@id="dynamiccontent"]/div[1]/text()').re('[.0-9]+'))
-        l.add_xpath('To', 'normalize-space(.//*[@id="dynamiccontent"]/div[2]/text()[3])')
-        l.add_xpath('From', 'normalize-space(.//*[@id="dynamiccontent"]/div[2]/text()[2])')
-        #l.add_xpath('Partners', 'response.css('.name').xpath('text()')')
-        #l.add_xpath('Country', 'response.css('.country').xpath('text()')')
-        #l.add_xpath('Activity', 'response.css('.contact').xpath('text()')')
-        l.add_css('Technology_Description', 'p::text') # error extract all p
-
-        return l.load_item()
-"""
