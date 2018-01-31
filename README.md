@@ -7,7 +7,6 @@ This project aims to download information about European Funded Projects from th
 * Conduct statistical analyses
 * Data-Journalism
 * Create an 'almost' ready-to-use DB
-* etc
 
 ## Getting Started
 
