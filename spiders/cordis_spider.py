@@ -6,7 +6,8 @@ from CORDIS.items import CordisItem
 class CordisSpider(scrapy.Spider):
     name = 'cordis'
     allowed_domains = ['cordis.europa.eu']
-    start_urls = ['http://cordis.europa.eu/project/rcn/%d_en.html' %(n) for n in range(210216, 210217)]
+    start_urls = ['http://cordis.europa.eu/project/rcn/%d_en.html' %(n) for n in range(1, 213445)]
+    # Max EU CORDIS 213445
 
     def parse(self, response):
         # Misconfiguration to check - eu in response.xpath not needed
