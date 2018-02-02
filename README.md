@@ -26,10 +26,12 @@ Run ```scrapy crawl cordis -o "filename"."extension"```.
 * If you want to download information about a specific project you will have to change the following ```start_urls = ['http://cordis.europa.eu/project/rcn/%d_en.html' %(n) for n in range(210216, 210217)]``` in ```spiders/cordis_spider.py```.
 
 * You can also extract from specific urls (sample urls.txt H2020 EU1)
-* ```name = 'cordis'
+  ```
+  name = 'cordis'
   f = open("urls.txt")
   start_urls = [url.strip() for url in f.readlines()]
-  f.close()```
+  f.close()
+  ```
 
 * You can decide to scrape which information extract by modifying the keywords ```if response.xpath('//*[@id="ica:content"][contains(.,"water") and contains(.,"drinking water")]'):```
 
