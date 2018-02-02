@@ -2,12 +2,15 @@
 import scrapy
 from scrapy.loader import ItemLoader
 from CORDIS.items import CordisItem
+from scrapy.spider import BaseSpider
 
 class CordisSpider(scrapy.Spider):
     name = 'cordis'
-    allowed_domains = ['cordis.europa.eu']
-    start_urls = ['http://cordis.europa.eu/project/rcn/%d_en.html' %(n) for n in range(210216, 210217)]
-    # Max EU CORDIS 213445
+    f = open("urls.txt")
+    start_urls = [url.strip() for url in f.readlines()]
+    f.close()
+    # allowed_domains = ['cordis.europa.eu']
+    # start_urls = ['http://cordis.europa.eu/project/rcn/%d_en.html' %(n) for n in range(210216, 210217)]
 
     def parse(self, response):
         # Misconfiguration to check - eu in response.xpath not needed
