@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <item>
+    <Partners>
+      <value>PRISE SYSTEMS LTD</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Heal Mastitis in Dairy Cattle</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Israel</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Mastitis is one of the most widespread and costly diseases in the dairy industry, inflicting serious damages on a global scale.In herds without an effective mastitis control program, 40 % of cows are infected every 6 months.
+      Treatment of mastitis costs ca. €185 per cow per year. Antibiotic treatment is currently the only solution for treating bacterial mastitis. The antibiotic treatment causes very large losses in milk production and degradation of milk quality, and
+      creates bacteria that are resistant to antibiotics. For many years, scientists all over the world tried to find a non-antibiotic treatment against mastitis. We have developed a highly innovative technology that heals mastitis without resorting to
+      antibiotics. Based on the energetic signature of mastitis pathogens received from the farm computer, our system processes the cows’ drinking water using radio emissions. Infected cows that drink the treated water are healed from mastitis without the
+      need for antibiotics. A working prototype of the system was tested at a 300-cows dairy farm, successfully healing 39 out of the 49 sick cows. Apart from the healing effect, the new treatment facilitates compliance with major EU health regulations.
+      The project will study the requirements for large scale production and delivery of the technology to the dairy industry. It will boost the EU business in milk production and create large environmental, economic and social benefits. Market drivers and
+      a 5-year growth potential will be analysed and a commercialisation strategy will be devised, along with an IPR protection strategy, analysis of competing technologies and planning of promotional and partnership activities. This will enable us to
+      redesign the technology for serial production and scale up for a successful market entry.</Technology_Description>
+    <To>
+      <value>2018-05-31, ongoing project</value>
+    </To>
+    <From>
+      <value>2017-12-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.2.4., H2020-EU.3.2.1., H2020-EU.2.3.1., H2020-EU.3.2.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SMEInst-07-2016-2017 - Stimulating the innovation potential of SMEs for sustainable and competitive agriculture, forestry, agri-food and bio-based sectors</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Israel</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>HealMastitis</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2016-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>786366</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>OFFICE INTERNATIONAL DE L'EAU</value>
+      <value>VIVERACQUA SCARL</value>
+      <value>CONSORCIO PARA LA GESTION DE SERVICIOS MEDIOAMBIENTALES DE LA PROVINCIA DE BADAJOZ</value>
+      <value>EAU DE PARIS</value>
+      <value>SYNDICAT DES EAUX ET DE L'ASSAINISSEMENT ALSACE MOSELLE</value>
+      <value>COMPAGNIE INTERCOMMUNALE LIEGEOISE DES EAUX</value>
+      <value>HYDROBRU SCRL</value>
+      <value>FOVAROSI VIZMUVEK ZARTKORUEN MUKODORESZVENYTARSASAG</value>
+      <value>ARAGON PARTNERS SRL</value>
+      <value>UNIVERSITE DE LIMOGES</value>
+      <value>FUNDACION NUEVA CULTURA DEL AGUA</value>
+      <value>Aqua Publica Europea</value>
+      <value>BEDIN SARA</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 3 989 643,75</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>PCP for Water Smart Metering</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 4 437 937,49</value>
+    </Total_Cost>
+    <Country>
+      <value>France</value>
+      <value>Italy</value>
+      <value>Spain</value>
+      <value>France</value>
+      <value>France</value>
+      <value>Belgium</value>
+      <value>Belgium</value>
+      <value>Hungary</value>
+      <value>Italy</value>
+      <value>France</value>
+      <value>Spain</value>
+      <value>Belgium</value>
+      <value>Italy</value>
+    </Country>
+    <Activity>
+      <value>Other</value>
+      <value>Other</value>
+      <value>Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)</value>
+      <value>Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)</value>
+      <value>Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)</value>
+      <value>Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Research Organisations</value>
+      <value>Other</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>European Water utilities environment is embedded in a context dealing with global issues such as water scarcity and technical-economic issues such as infrastructure aging. Management of drinking water supply is facing key
+      challenges partly related to traditional water meter, such as managing capital and operational costs; water loss (also known as non-revenue water) due to leaks and other system failures; and water scarcity/conservation.
+    </Technology_Description>
+    <To>
+      <value>2020-12-31, ongoing project</value>
+    </To>
+    <From>
+      <value>2017-01-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.2.1.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>ICT-34-2016 - Pre-Commercial Procurement open</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>PCP - Pre-Commercial Procurement</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>France</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>SMART.MET</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-ICT-2016-1</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>731996</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>OPTISENSE BV</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 786 195</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Protecting citizens against intentional drinking water contamination with a water quality firewall</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 1 123 136,25</value>
+    </Total_Cost>
+    <Country>
+      <value>Netherlands</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Critical water infrastructures and high profile (soft) targets are vulnerable to intentional drinking water contamination. Physical access is difficult to control and traditional water quality monitoring solutions are largely
+      inadequate to protect the water distribution process and its consumers. In light of increasing security threats there is a strong need amongst water suppliers and authorities, in Europe and globally, for a contaminant warning system that can be
+      deployed in the distribution network and that provides real-time water quality information and event classification to support rapid decision making and protect the health of citizens.</Technology_Description>
+    <To>
+      <value>2017-05-31, closed project</value>
+    </To>
+    <From>
+      <value>2015-01-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.7., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>DRS-17-2014 - Critical infrastructure protection topic 7: SME instrument topic: “Protection of Urban soft targets and urban critical infrastructures”</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-2 - SME instrument phase 2</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Netherlands</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>AquaSHIELD</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-2-2014</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>666490</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>LIPP GMBH</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 1 552 801,25</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Revolutionary rib-welding system for the worldwide first fully automated production of large, high quality, on-site welded tanks, bringing considerable cost savings to drinking water applications</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 2 218 287,50</value>
+    </Total_Cost>
+    <Country>
+      <value>Germany</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>LIPP GmbH, based in Tannhausen in the south of Germany, is one of the leading tank manufacturers in Europe, having been in existence since the 1950’s. In the past decades, Lipp has patented over 170 different manufacturing,
+      material and tank design technologies and is an innovative highly awarded (Rudolf-Diesel-Medaille) SME. Altogether, over 50,000 tanks and containers have been constructed globally with the internationally marketed and licenced LIPP Double-Seam
+      Technology.
+    </Technology_Description>
+    <To>
+      <value>2018-05-31, ongoing project |</value>
+    </To>
+    <From>
+      <value>2016-06-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.2.1.5., H2020-EU.2.1.3., H2020-EU.2.3.1., H2020-EU.2.1.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SMEInst-02-2016-2017 - Accelerating the uptake of nanotechnologies advanced materials or advanced manufacturing and processing technologies by SMEs</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-2 - SME instrument phase 2</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Germany</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>TechTanks</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-2-2016-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>726675</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>Amphiro AG</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Amphiro en-Gage: Technology for a Smart and Sustainable Use of Hot Water</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Switzerland</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Product: Amphiro has developed the first energy-autarkic, micro-mechatronic modules that measure, communicate and display hot water consumption in real-time and at the point of use. The modules are powered by water flow, fit
+      to virtually every water outlet and can be retrofitted by end-users or integrated by faucets OEMs. The patented technology helps to monitor personal energy and water use, motivates a sustainable behavior and allows faucet OMEs to add digital features
+      to their products.</Technology_Description>
+    <To>
+      <value>2018-02-28, ongoing project</value>
+    </To>
+    <From>
+      <value>2017-09-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SMEInst-11-2016-2017 - Boosting the potential of small businesses in the areas of climate action, environment, resource efficiency and raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Switzerland</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>Amphiro en-Gage</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2016-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>781829</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>FCC AQUALIA SA</value>
+      <value>FUJIFILM MANUFACTURING EUROPE BV</value>
+      <value>FUNDACION IMDEA AGUA</value>
+      <value>SGL CARBON GMBH</value>
+      <value>ACONDICIONAMIENTO TARRASENSE ASSOCIACION</value>
+      <value>MIKROLIN HUNGARY TERMELO ES SZOLGALTATO KFT</value>
+      <value>ONCONTROL TECHNOLOGIES LDA</value>
+      <value>SIMTECH GMBH</value>
+      <value>ROOD WIT BLAUW WATER SERVICES BV</value>
+      <value>STICHTING IHE DELFT</value>
+      <value>ECOLE NATIONALE D'INGENIEURS DE GABES</value>
+      <value>UNIVERSIDAD DE CHILE</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 6 328 164,13</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Microbial Desalination for Low Energy Drinking Water</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 8 069 593,57</value>
+    </Total_Cost>
+    <Country>
+      <value>Spain</value>
+      <value>Netherlands</value>
+      <value>Spain</value>
+      <value>Germany</value>
+      <value>Spain</value>
+      <value>Hungary</value>
+      <value>Portugal</value>
+      <value>Austria</value>
+      <value>Netherlands</value>
+      <value>Netherlands</value>
+      <value>Tunisia</value>
+      <value>Chile</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Research Organisations</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Research Organisations</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Research Organisations</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+    </Activity>
+    <Technology_Description>Shortage of fresh water has become one of the major challenges for societies all over the world. Water desalination offers an opportunity to significantly increase the freshwater supply for drinking, industrial use and
+      irrigation. All current desalination technologies require significant electrical or thermal energy, with today's Reverse Osmosis (RO) desalination units consuming electric energy of at least 3 kWh/m3 – in extensive tests about ten years ago, the
+      Affordable Desalination Collaboration (ADC) in California measured 1.6 kWh/m3 for RO power consumption on the best commercially available membranes, and total plant energy about twice as high.
+    </Technology_Description>
+    <To>
+      <value>2020-03-31, ongoing project</value>
+    </To>
+    <From>
+      <value>2016-04-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.2.1.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>NMP-24-2015 - Low-energy solutions for drinking water production</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>IA - Innovation action</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Spain</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>MIDES</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-NMP-2015-two-stage</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>685793</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>RAINMAKER HOLLAND BV</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Innovative system for medium scale water desalination 100% powered by renewable energies</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Netherlands</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>We are RAINMAKER, a Dutch SME specialized in providing sustainable and disruptive solutions to combat water scarcity. We have developed W2W –water to water- the first water desalination system fully off-grid and fully powered
+      by renewable energies (wind &amp; solar).</Technology_Description>
+    <To>
+      <value>2017-09-30, closed project</value>
+    </To>
+    <From>
+      <value>2017-06-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SMEInst-11-2016-2017 - Boosting the potential of small businesses in the areas of climate action, environment, resource efficiency and raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Netherlands</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>W2W - Wind and Solar</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2016-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>775020</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>ENRY'S PLEX SL</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 1 417 850</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>An autonomous and mobile water treatment plant powered by solar energy</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 2 025 500</value>
+    </Total_Cost>
+    <Country>
+      <value>Spain</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Water and energy are highly interdependent and are both crucial to human well-being and sustainable socio-economic development. 1.1 billion people worldwide do not have access to a safe source of drinking water; 1.3 billion
+      people lack access to electricity; 5 billion people worldwide still have no access to internet.</Technology_Description>
+    <To>
+      <value>2017-10-31, closed project</value>
+    </To>
+    <From>
+      <value>2015-10-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SC5-20-2015 - Boosting the potential of small businesses for eco-innovation and a sustainable supply of raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-2 - SME instrument phase 2</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Spain</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>WATLY</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-2-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>698688</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>ETATRON D.S. SPA</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>An innovative system capable of monitoring and removing heavy metals, phenolic compounds and biological pollutants in drinking water</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Italy</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>The needs in the water drinking water quality monitoring and treatment are related to:</Technology_Description>
+    <To>
+      <value>2017-09-30, closed project |</value>
+    </To>
+    <From>
+      <value>2017-06-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SMEInst-11-2016-2017 - Boosting the potential of small businesses in the areas of climate action, environment, resource efficiency and raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Italy</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>SWaT</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2016-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>775885</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>OFRA AQUA PLANTS LTD</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Constructed wetland to produce high-quality drinking water free from nitrates</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Israel</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Three out of four people in EU drink water from groundwater subjected to severe nitrate contamination by fertilizers and sanitary products used in intensive agriculture &amp; farming. High levels of nitrates in drinking water
+      put human health at risk and have been reported to threaten 26% of EU biodiversity. Current technologies do not meet the needs of small water suppliers, who must face costs derived from high energy consumption (3-7 kWh/m3), poor nitrate selectivity,
+      residual streams and by-products, and continuous costly maintenance. 33% of suppliers in Europe are not compliant with quality standards, particularly nitrate levels. ZIRONITRO is the result of 8 years of research and development by Ofra Aqua Plants,
+      an Israeli company with over 25 years’ experience in bioengineering and phytoremediation. Based on the concept of using nature to cleanse nature, ZIRONITRO is a constructed wetland to biologically treat groundwater by removing nitrates to obtain
+      high-quality drinking water (98% removal), at 84% lower cost than current. ZIRONITRO’s innovation resides in the system’s nitrate removal specificity, with a design that allows low-cost operation and maintenance, along with very high rates of nitrate
+      breakdown by bacteria. The key factor is the selection of the best combination of both bacteria and plants, along with the optimal proportion of methanol as carbon source. The particular environment we have generated inside our ponds reduces
+      hydraulic retention time by 90% and uses 100 times less ethanol than current constructed wetlands. Indeed, we do not use synthetic chemicals, energy input needed is negligible, and neither residuals nor wastewater are generated, so it has no negative
+      impact on the environment. On the contrary, it contributes to both biodiversity conservation and landscape value. For 2020-2022, we forecast €61.3 M cumulative revenues (profitability ratio of 12%), increasing workforce to 40 people.</Technology_Description>
+    <To>
+      <value>2017-08-31, closed project |</value>
+    </To>
+    <From>
+      <value>2017-06-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SMEInst-11-2016-2017 - Boosting the potential of small businesses in the areas of climate action, environment, resource efficiency and raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Israel</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>ZIRONITRO</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2016-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>773351</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>ENRY'S PLEX SL</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>An autonomous and mobile water treatment plant powered by solar energy</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Spain</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Water and energy are highly interdependent and are both crucial to human well-being and sustainable socio-economic development. In 2014, the UN reports that 768 million people worldwide still do not have access to a safe
+      source of drinking water, and more than 1.3 billion lack access to electricity.</Technology_Description>
+    <To>
+      <value>2015-04-30, closed project</value>
+    </To>
+    <From>
+      <value>2015-02-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SC5-20-2014-1 - Boosting the potential of small businesses for eco-innovation and a sustainable supply of raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Spain</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>WATLY</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2014</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>663913</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>HELIOZ GMBH</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>THE INDICATOR FOR SOLAR WATER DISINFECTION</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Austria</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Even though water is a fundamental resource for human-beings, millions of people around the world lack an access to safe drinking water as they can hardly afford/ have access to current water disinfection methods, such as
+      filtration, boiling, chlorination or ultra violet radiation.
+    </Technology_Description>
+    <To>
+      <value>2017-08-31, closed project |</value>
+    </To>
+    <From>
+      <value>2017-05-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SMEInst-11-2016-2017 - Boosting the potential of small businesses in the areas of climate action, environment, resource efficiency and raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Austria</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>WADI</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2016-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>775297</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>ANB SENSORS LIMITED</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>A cost effective, smart, calibration free, low maintenance pH sensor providing an integrated approach to monitoring sea and drinking water, facilitating improvements in ocean, animal and human health.</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>United Kingdom</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>The objective of the pHenom project is to produce the next generation pH sensor capable of accurate, calibration free and smart operation, with integral quality and control. Development and commercialisation of this smart
+      sensor, named the “pHenom” will provide a revolutionary pH sensor that meets the ocean monitoring and water management needs. Beyond the ocean monitoring and water management industries, the global pH meter market is expected to reach nearly £1.48 bn
+      by 2022. The pH meter market is segmented into bench top (55% share - £815m), portable, and continuous pH meters. pHims technology can deliver to all three and has the potential to meet a wide range of needs within the segments; pharmaceuticals and
+      biotechnology, food science (41% share), water and waste treatment, research institutes and environmental control boards. Despite US dominance, in 2014, Europe was the highest revenue generating region at 32% due to the high level of R&amp;D
+      activities, advanced healthcare, and industrial infrastructure. Drivers are new technology (microprocessors for auto temperature and pressure compensation), growing health concerns and regulatory pressure to monitor environmental pollution (waste
+      water pH in industries such as chemicals, pharmaceuticals, food processing) and the need to regulate pH levels (routine testing of soil, water, food, beverage, and dairy products). The objective of this feasibility study is to carry out activities
+      that enable the provision of a comprehensive feasibility report with conclusions, recommendations and a specification of the Phase 2 project objectives, together with a detailed marketing and business plan for the development and commercialisation of
+      pHims.</Technology_Description>
+    <To>
+      <value>2017-10-31, closed project</value>
+    </To>
+    <From>
+      <value>2017-05-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SMEInst-11-2016-2017 - Boosting the potential of small businesses in the areas of climate action, environment, resource efficiency and raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>United Kingdom</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>pHenom</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2016-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>774792</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>ABN PIPE SYSTEMS SL</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Intelligent System for Pressure Networks</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Spain</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Management and maintenance of pipe systems present a major problem: leaks. The existence of leaks is costly, both economic and environmental terms, especially when considering finite resources. The ISPNET project proposes a
+      new smart pipe system for early detection of leaks and preventive maintenance of networks, including a last generation of transmission system specifically tested for water distribution, but with further application in other fluids’ transportation
+      networks (oil &amp; gas, industrial liquids…). The new system, which has been installed and subject to public trials, will optimize the properties of existing piping systems and in turn, serve as reporter element of all incidents occurring in the
+      pipe system and as management tool of parameters commonly used. The solution offer innovative advantages both in terms of the materials used for the pipe and due to the monitoring and traceability possibilities of the embedded sensor system. There is
+      no other similar system in the market, and the cost per meter of the system is lower than “conventional” ones. SME INSTRUMENT Phase 1 will help to define requirements to validate the product in different configurations (dimensions, monitoring
+      functionalities) and uses (drinking water and other fluids), as well as to automate the production process. Through a feasibility study, ABN will measure the potential of the solution in terms of efficiency, business opportunity and compliance with
+      standards, analyze the commercial impact of the device and define the market in concrete and realistic terms, in order to attract investors. All this will reduce time to market for a very promising solution, which has received expression of interest
+      of major water distrubution companies. It has also been recently (April 2015) awarded at first Ideas Competition (Sustainability award) launched by the Spanish network of Smart and Innovative Cities RED INNPULSO.</Technology_Description>
+    <To>
+      <value>2016-03-31, closed project</value>
+    </To>
+    <From>
+      <value>2015-10-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SC5-20-2015-1 - Boosting the potential of small businesses for eco-innovation and a sustainable supply of raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Spain</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>ISPNET</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>696443</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>Water Insight BV</value>
+      <value>STICHTING DELTARES</value>
+      <value>CONSIGLIO NAZIONALE DELLE RICERCHE</value>
+      <value>SUOMEN YMPARISTOKESKUS</value>
+      <value>TARTU OBSERVATORY - ESTONIAN MINISTRY OF EDUCATION AND RESEARCH</value>
+      <value>KLAIPEDOS UNIVERSITETAS</value>
+      <value>THE UNIVERSITY OF STIRLING</value>
+      <value>PLYMOUTH MARINE LABORATORY</value>
+      <value>EVENFLOW</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 2 005 861,66</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Earth Observation based services for Monitoring and Reporting of Ecological Status</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 2 219 318</value>
+    </Total_Cost>
+    <Country>
+      <value>Netherlands</value>
+      <value>Netherlands</value>
+      <value>Italy</value>
+      <value>Finland</value>
+      <value>Estonia</value>
+      <value>Lithuania</value>
+      <value>United Kingdom</value>
+      <value>United Kingdom</value>
+      <value>Belgium</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Research Organisations</value>
+      <value>Research Organisations</value>
+      <value>Research Organisations</value>
+      <value>Research Organisations</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Research Organisations</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>EOMORES (Earth Observation-based Services for Monitoring and Reporting of Ecological Status) aims to develop new highly efficient commercial services for operational inland and coastal ecological water quality monitoring.
+    </Technology_Description>
+    <To>
+      <value>2019-11-30, ongoing project</value>
+    </To>
+    <From>
+      <value>2016-12-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.2.1.6.3., H2020-EU.2.1.6.1.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>EO-1-2016 - Downstream applications</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>IA - Innovation action</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Netherlands</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>EOMORES</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-EO-2016</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>730066</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>PHAREM BIOTECH AB</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>A cost-effective and energy-efficient water treatment technology to remove pharmaceutical pollutants from urban wastewater</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Sweden</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Widespread contamination from pharmaceuticals (synthetic or natural chemicals found in prescription medicines, over-the-counter therapeutic drugs &amp; veterinary drugs) are finding their way into the drinking water supply,
+      posing serious threats to public health. Pharmaceutical compounds such as hormones and endocrine disrupters are already responsible of major health problems, but modern wastewater treatment systems are not designed for effective removal of
+      pharmaceuticals.</Technology_Description>
+    <To>
+      <value>2017-04-30, closed project</value>
+    </To>
+    <From>
+      <value>2016-12-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SMEInst-11-2016-2017 - Boosting the potential of small businesses in the areas of climate action, environment, resource efficiency and raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Sweden</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>DePharm</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2016-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>763186</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>EGGPLANT SOCIETA A RESPONSABILITA LIMITATA</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>A feasibility study, to investigate and verify the commercial and industrial viability of a wastewater processing solution to generate bioplastics from agri-food and municipal wastewater sources.</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Italy</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Currently, the bioplastics industry is restricted by the high cost of PHA and PHB bioplastics, despite the global capacity for their production outstripping commonly-used hydrocarbon-based thermoplastics and alternative
+      bioplastic solutions; contemporary bioplastics that can compete with hydrocarbon thermoplastics are derived from crops (primarily using starch compounds), creating a conflict between using crops for food or as an industrial raw material, and
+      increasing the cost of food. Furthermore, wastewater presents itself as a constant burden for industry, particularly wastewater containing nutrients that can potentially lead to a high biological oxygen demand (BOD) which damages aquatic ecosystems.
+      The Eggplant is an innovative two-phase water treatment procedure that filters industrial wastewater and applies a three-stage post-filtration process. Through this process, each Eggplant uses wastewater as a raw material for the production of
+      bioplastics using a commercial bacterial culture. Critically, the water at the end of the process is purified and safe to be used as drinking water or for release into watercourses. The primary value of Eggplant is the reduction of waste from
+      agri-food industrial wastewater from twofold to zero – filtration removes the majority of pollutants and fermentation removes organic contaminants. The resulting concentrate is then processed into PHA and PHB bioplastics. Moreover, an Eggplant,
+      through the use of concentrated substrate can generate 3-4 times as much bioplastic from an equivalent volume of wastewater.</Technology_Description>
+    <To>
+      <value>2016-05-31, closed project</value>
+    </To>
+    <From>
+      <value>2016-02-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.2.3.1., H2020-EU.3.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SFS-08-2015-1 - Resource-efficient eco-innovative food production and processing</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Italy</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>EggPlant</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>718097</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>WATAS WARMETAUSCHER SACHSEN GMBH</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Eco-friendly and scalable seawater desalination container to secure water supply for agriculture and food production in the Mediterranean area</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Germany</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>The total global water demand is expected to rise by 35–60% until 2025 compared to the level of the year 2000, and could then double by 2050. Already today, Europe’s Mediterranean regions suffer from water scarcity and thereof
+      foremost the food sector, accounting for 80% of freshwater demand while representing a decisive economic factor in that regions. Depending strongly on secure and sustainable water supply, green technologies for water treatment are needed to safeguard
+      its economic prosperity. Against this background WTS has developed an innovative, energy-efficient and sustainable technology for decentralised seawater desalination to generate high-quality potable water cost-efficiently (by using special high
+      performance heat exchanger technology) and environmentally-friendly (using waste heat as energy input and avoiding salt pollution). The system provided in a sea container is portable and easily scalable imitating a weather-like cycle. The WTS
+      solution is advantageous related to state of the art technology w.r.t. energy use, environmental burden and costs. The key market application is decentralized water production for users or user groups with the need to consume water directly on site
+      but face limitation on available freshwater resources (due to large distances or over-exploitation). The idea is to offer small-scale, distributed desalination for the extraction of raw water from saline water sources for 1) drinking water production
+      and 2) process water production. It will be viable to use the WTS technology in Mediterranean coastal areas and islands. The global capacity of desalination plants is expected to grow with a CAGR of 11%. The project helps safeguard sustainability and
+      secure food production in the Mediterranean countries and other water stressed regions. Objective is to assess the technical feasibility of Water4Food in relevant industrial environment as well as the economic justification in the first target
+      markets (Greece, Cyprus, Malta).</Technology_Description>
+    <To>
+      <value>2017-02-28, closed project</value>
+    </To>
+    <From>
+      <value>2016-09-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.2.4., H2020-EU.3.2.1., H2020-EU.2.3.1., H2020-EU.3.2.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SMEInst-07-2016-2017 - Stimulating the innovation potential of SMEs for sustainable and competitive agriculture, forestry, agri-food and bio-based sectors</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Germany</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>Water4Food</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2016-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>736282</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>FUJIFILM MANUFACTURING EUROPE BV</value>
+      <value>ABENGOA RESEARCH SL</value>
+      <value>REDSTACK BV</value>
+      <value>DEUKUM GMBH</value>
+      <value>PHAESUN GMBH</value>
+      <value>EUROPEAN DESALINATION SOCIETY</value>
+      <value>UNIVERSITA DEGLI STUDI DI PALERMO</value>
+      <value>UNIVERSITEIT GENT</value>
+      <value>STICHTING WETSUS, EUROPEAN CENTRE OF EXCELLENCE FOR SUSTAINABLE WATER TECHNOLOGY</value>
+      <value>AquaTT UETP Ltd</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 7 633 672,01</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Low energy solution for drinking water production by a REvival of ElectroDialysis systems</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 9 795 085</value>
+    </Total_Cost>
+    <Country>
+      <value>Netherlands</value>
+      <value>Spain</value>
+      <value>Netherlands</value>
+      <value>Germany</value>
+      <value>Germany</value>
+      <value>Italy</value>
+      <value>Italy</value>
+      <value>Belgium</value>
+      <value>Netherlands</value>
+      <value>Ireland</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Other</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Research Organisations</value>
+      <value>Other</value>
+    </Activity>
+    <Technology_Description>The REvivED water project will establish electrodialysis (ED) as the new standard providing a source of safe, affordable, and cost-competitive drinking water, using less than half the energy required by state-of-the-art Reverse Osmosis (RO) plants.</Technology_Description>
+    <To>
+      <value>2020-04-30, ongoing project</value>
+    </To>
+    <From>
+      <value>2016-05-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.2.1.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>NMP-24-2015 - Low-energy solutions for drinking water production</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>IA - Innovation action</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Netherlands</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>REvivED water</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-NMP-2015-two-stage</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>685579</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>BIOSENSOR S.R.L.</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>“Biosensor for Effective Environmental Protection through the on-site, automated monitoring of a large set of chemical contaminants in Water.”</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Italy</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>The Drinking Water Treatment Industry is subject to a stringent legislation regarding contaminants in water. Quality of water intended for human consumption and its monitoring are regulated under the drinking water directive
+      98/83/CE. Pesticides and heavy metals must be monitored and tested regularly with maximum allowable concentration of 0.1 μg/l for individual pesticides and 0.5 μg/l for the total amount of pesticides. The directive 2013/39/EU concerning emerging
+      contaminants to be controlled in the field of water policy establishes what contaminants are identified for priority action at Union Level.
+    </Technology_Description>
+    <To>
+      <value>2015-08-31, closed project</value>
+    </To>
+    <From>
+      <value>2015-05-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.2.3.1., H2020-EU.2.1.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>NMP-25-2014-1 - Accelerating the uptake of nanotechnologies, advanced materials or advanced manufacturing and processing technologies by SMEs</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Italy</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>BEEP-WATER</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2014</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>673710</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>DESOLENATOR UK LTD</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Green and Affordable Water Supply for All</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>United Kingdom</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>The Desolenator team offer a novel technology that uses an original photovoltaic system to collect both thermal and electrical power in order to desalinate and purify water from any source. The off-grid household product is on
+      track to become the most affordable and environmentally friendly method of distilling water from any source. We believe Desolenator can make a major contribution to global drinking water shortages.
+    </Technology_Description>
+    <To>
+      <value>2016-08-31, closed project</value>
+    </To>
+    <From>
+      <value>2016-03-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SC5-20-2015-1 - Boosting the potential of small businesses for eco-innovation and a sustainable supply of raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>United Kingdom</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>Desolenator</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>719712</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>DELAGUA WATER TESTING LIMITED</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Innovative Business Models for a new Integrated Rapid Microbial Pathogen Tester</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>United Kingdom</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>DelAgua Water Testing currently retails and distributes water testing equipment and consumables to over 150 countries globally. Our client base includes private, public sector and significant numbers of non-governmental organizations.
+    </Technology_Description>
+    <To>
+      <value>2016-07-31, closed project</value>
+    </To>
+    <From>
+      <value>2016-02-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.6., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>INSO-10-2015-1 - SME business model innovation</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>United Kingdom</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>RapidBact</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>710346</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>CORES EOOD</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Zero Emission Robot-Boat for Coastal and Inland Water Monitoring</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Bulgaria</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>The project aims to develop an eco-innovative product: a zero emission autonomous (unmanned) robot-boat system intended for use as a monitoring station for quality &amp; quantity of surface waters. The proposed innovative
+      product (system) aims to contribute to solving two important issues:</Technology_Description>
+    <To>
+      <value>2015-11-30, closed project</value>
+    </To>
+    <From>
+      <value>2015-06-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.5., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SC5-20-2014-1 - Boosting the potential of small businesses for eco-innovation and a sustainable supply of raw materials</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Bulgaria</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>ZEBCOM</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2014</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>674364</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>SENSOVANN AS</value>
+      <value>MANDALON TECHNOLOGIES AB</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Biological Water Alarm System (BiWAS) for protection of urban drinking water infrastructure against CBRN threats</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Norway</value>
+      <value>Sweden</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Safe drinking water is essentially a global concern, thus resulting in a considerably large market for water quality monitoring. Besides, potential terrorists might threaten water infrastructure in European cities, since
+      poisoning the tap water is a low-cost attack that easily generates social panic and economic loss to the society. Due to lack of the ideal early warning tools on water safety, large amount of routine sampling and testing have to be done frequently to
+      fight against possible CBRN threats on urban water supply. This project addresses feasibility study for the technical and economic viability of Biological Water Alarm System (BiWAS): An innovative low-cost early warning device for monitoring of
+      drinking water safety over a broad spectrum of harmful substances, including (1) acute toxicant chemicals, (2) chronic carcinogenic chemicals, and (3) waterborne pathogens. The innovative content of BiWAS lies in the miniaturisation and integration
+      with multidisciplinary knowledge, which makes BiWAS a continuous, automatic and portable device working for long period with only annually or biannually maintenance. The potential customers include public water suppliers, household users, hospitals,
+      hotels, culinary and food industries, etc. An early warning system against CBRN threats in drinking water can be realized without more investment. A feasibility assessment on BiWAS product under Phase 1 includes market investigation, business plan
+      development, risk assessment, intellectual property management and innovation strategy development. In the potential Phase 2, a commercializable prototype of BiWAS will be expected, which can be probably the first low-cost and broad-spectrum early
+      warning device for water safety. With the outcome of Phase 1, it will guide the European companies towards the leading role of the global water quality monitoring techniques, and open a big door to the large market of global water quality monitoring,
+      from Europe to the world.</Technology_Description>
+    <To>
+      <value>2015-07-31, closed project</value>
+    </To>
+    <From>
+      <value>2015-02-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.7., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>DRS-17-2014-1 - Critical infrastructure protection topic 7: SME instrument topic: “Protection of Urban soft targets and urban critical infrastructures”</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Norway</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>BIWAS</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2014</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>664032</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>HYDROINGEA SRL</value>
+      <value>EDILLIO SRL</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 50 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Smart Water Manager SCADA system for entire grid of water wells management.</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 71 429</value>
+    </Total_Cost>
+    <Country>
+      <value>Italy</value>
+      <value>Italy</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>The problem: water reservoir and water wells are fragmentarily managed. This causes high energy inefficiency of water pumping and provision operations and depletion of aquifers.</Technology_Description>
+    <To>
+      <value>2015-02-28, closed project</value>
+    </To>
+    <From>
+      <value>2014-11-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.3.3., H2020-EU.2.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>SIE-01-2014-1 - Stimulating the innovation potential of SMEs for a low carbon energy system</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>SME-1 - SME instrument phase 1</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Italy</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>SWaM</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-SMEINST-1-2014</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>650785</value>
+    </Project_ID>
+  </item>
+</items>
