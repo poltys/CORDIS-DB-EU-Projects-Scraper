@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <item>
+    <Partners>
+      <value>THE UNIVERSITY OF SHEFFIELD</value>
+      <value>VYSOKE UCENI TECHNICKE V BRNE</value>
+      <value>UNIVERSITA DEGLI STUDI DI PAVIA</value>
+      <value>TECHNISCHE UNIVERSITEIT DELFT</value>
+      <value>NV PWN WATERLEIDINGBEDRIJF NOORD-HOLLAND</value>
+      <value>DVGW DEUTSCHER VEREIN DES GAS- UND WASSERFACHES - TECHNISCH-WISSENSCHAFTLICHER VEREIN EV</value>
+      <value>UNIVERSITAT POLITECNICA DE VALENCIA</value>
+      <value>STICHTING WATERNET</value>
+      <value>KWR WATER B.V.</value>
+      <value>INSTITUT NATIONAL DE RECHERCHE EN SCIENCES ET TECHNOLOGIES POUR L'ENVIRONNEMENT ET L'AGRICULTURE</value>
+      <value>THE UNIVERSITY OF EXETER</value>
+      <value>NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU</value>
+      <value>FACULTY OF CIVIL ENGINEERING</value>
+      <value>JAVNO KOMUNALNO PREDUZECE VODOVOD IKANALIZACJA PANCHEVO</value>
+      <value>CONSTRUCCIONES Y CANALIZACIONES CYCA SOCIEDAD LIMITADA</value>
+      <value>University of Cincinnati</value>
+      <value>REGENTS OF THE UNIVERSITY OF COLORADO</value>
+      <value>THE REGENTS OF THE UNIVERSITY OF CALIFORNIA</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 243 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Water Quality in Drinking Water Distribution Systems.</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 243 000</value>
+    </Total_Cost>
+    <Country>
+      <value>United Kingdom</value>
+      <value>Czech Republic</value>
+      <value>Italy</value>
+      <value>Netherlands</value>
+      <value>Netherlands</value>
+      <value>Germany</value>
+      <value>Spain</value>
+      <value>Netherlands</value>
+      <value>Netherlands</value>
+      <value>France</value>
+      <value>United Kingdom</value>
+      <value>Norway</value>
+      <value>Serbia</value>
+      <value>Serbia</value>
+      <value>Spain</value>
+      <value>United States</value>
+      <value>United States</value>
+      <value>United States</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Research Organisations</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Research Organisations</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+    </Activity>
+    <Technology_Description>Safe drinking water is paramount for the health and wellbeing of all populations. Unsafe drinking water can contain pathogenic microorganisms and/or chemicals that can make people immediately unwell or can potentially cause
+      serious illness over prolonged exposures. Within the EU, water is extracted from surface and groundwater sources and treated to comply with EU drinking water standards under the Water Framework Directive and Drinking Water Directive. The water is
+      then circulated through the drinking water distribution system (DWDS). During travel within the DWDS, water quality can deteriorate due to microbiological growth, chemical reactions, interactions with ageing and deteriorating infrastructure, and
+      through maintenance and repair activities.
+    </Technology_Description>
+    <To>
+      <value>2019-12-31, ongoing project</value>
+    </To>
+    <From>
+      <value>2018-01-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.3."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-RISE-2017 - Research and Innovation Staff Exchange</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-RISE - Marie Skłodowska-Curie Research and Innovation Staff Exchange (RISE)</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>United Kingdom</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>Wat-Qual</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-RISE-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>778136</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>UNIVERSITAT AUTONOMA DE BARCELONA</value>
+      <value>LUNDS UNIVERSITET</value>
+      <value>UNIVERSITE DE PAU ET DES PAYS DE L'ADOUR</value>
+      <value>UNIVERSITA DEGLI STUDI DI UDINE</value>
+      <value>AERIS TECNOLOGÍAS AMBIENTALES S.L.</value>
+      <value>EUROPE FOR BUSINESS LTD</value>
+      <value>UNIVERSIDAD DE LA HABANA</value>
+      <value>CENTRO DE INVESTIGACION Y DESARROLLO DE MEDICAMENTOS</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 895 500</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Removal and Recovery of Pharmaceutical Persistent Pollutants from Wastewater by Selective Reagentless Process</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 895 500</value>
+    </Total_Cost>
+    <Country>
+      <value>Spain</value>
+      <value>Sweden</value>
+      <value>France</value>
+      <value>Italy</value>
+      <value>Spain</value>
+      <value>United Kingdom</value>
+      <value>Cuba</value>
+      <value>Cuba</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Pharmaceutical drugs, characterized by their environmental persistence (e.g. cytostatic drugs [CDs]) have been detected in water bodies (drinking water, groundwater, surface water, and effluent wastewater) at concentrations up
+      to μg/L level. Actual methods for the removal and degradation of CDs, including electrochemical, photochemical, and biological methods have been developed. However, these methods are expensive and sometimes inefficient for CDs complete removal from
+      the treated water. Including the exploitation of previous results from EU funded projects, the goal of project RECOPHARMA is to design, develop, validate and demonstrate a novel process by sequential integration the potentials offered by Molecular
+      Imprinted Polymers (MIPs), Reagentless Thermosorption (RTS), Nanocomposites Functional Materials, Advanced Oxidation Processes, for an effective treatment aiming the recovery of target recalcitrant CDs and degradation of corresponding transformation
+      products or metabolites, working in a continuous operation mode. The suggested approach offers versatile, fast, highly efficient, and low-cost treatment for wastewaters.</Technology_Description>
+    <To>
+      <value>2021-12-31, ongoing project</value>
+    </To>
+    <From>
+      <value>2018-01-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.3."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-RISE-2017 - Research and Innovation Staff Exchange</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-RISE - Marie Skłodowska-Curie Research and Innovation Staff Exchange (RISE)</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Spain</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>RECOPHARMA</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-RISE-2017</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>778266</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>ATOS SPAIN SA</value>
+      <value>TECHNISCHE UNIVERSITAET BERLIN</value>
+      <value>UNIVERSITE DE STRASBOURG</value>
+      <value>STIFTELSEN SINTEF</value>
+      <value>BCAM - BASQUE CENTER FOR APPLIED MATHEMATICS</value>
+      <value>SZECHENYI ISTVAN UNIVERSITY</value>
+      <value>Konrad-Zuse-Zentrum für Informationstechnik Berlin</value>
+      <value>FUNDACION PUBLICA GALLEGA CENTRO TECNOLOGICO DE SUPERCOMPUTACION DE GALICIA</value>
+      <value>KUNGLIGA TEKNISKA HOEGSKOLAN</value>
+      <value>STICHTING EUROPEAN SERVICE NETWORK OF MATHEMATICS FOR INDUSTRY AND INNOVATION</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 2 435 064,50</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Mathematical Modelling, Simulation and Optimization for Societal Challenges with Scientific Computing</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 2 435 064,50</value>
+    </Total_Cost>
+    <Country>
+      <value>Spain</value>
+      <value>Germany</value>
+      <value>France</value>
+      <value>Norway</value>
+      <value>Spain</value>
+      <value>Hungary</value>
+      <value>Germany</value>
+      <value>Spain</value>
+      <value>Sweden</value>
+      <value>Netherlands</value>
+    </Country>
+    <Activity>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Research Organisations</value>
+      <value>Research Organisations</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Research Organisations</value>
+      <value>Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Other</value>
+    </Activity>
+    <Technology_Description>The challenges of society show rising complexity and their solution process increasingly requires a holistic approach. It is necessary to provide decision makers with tools that allow long-term risk analysis, improvements or
+      even optimization and control.
+    </Technology_Description>
+    <To>
+      <value>2018-09-30, ongoing project</value>
+    </To>
+    <From>
+      <value>2016-10-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.4.1.3."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>EINFRA-22-2016 - User-driven e-infrastructure innovation</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>RIA - Research and Innovation action</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Spain</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>MSO4SC</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-EINFRA-2016-1</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>731063</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>THE UNIVERSITY OF MANCHESTER</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 195 454,80</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Stable Crosslinked Graphene Membranes for Water and Molecular Separation</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 195 454,80</value>
+    </Total_Cost>
+    <Country>
+      <value>United Kingdom</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+    </Activity>
+    <Technology_Description>With less than 1 percent of drinkable water on Earth and growing pollution the demand for drinking water can only be met through the advanced separation and purification technology. Membrane-based filtration technologies are
+      standard separation processes and are widely used in water treatment; however their performance is still severely limited due to their underperformance in terms of flux, selectivity, porosity, cleaning ability, and stability. Recent advancement in
+      nanostructured membranes based on layered graphene construct enables a paradigm shift in the membrane development due to its almost zero resistance for water molecules and 100% rejection of other components. Recent reports suggest that an ideal
+      membrane could be realized using graphene because of its atomic thickness, high mechanical strength, and chemical inertness. Although the graphene based membranes showed excellent separation performance; unfortunately their durability and stability
+      is the biggest obstacle in realization of its full potential.
+    </Technology_Description>
+    <To>
+      <value>2019-08-08, Grant Agreement terminated</value>
+    </To>
+    <From>
+      <value>2017-08-09</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-IF-2015-EF - Marie Skłodowska-Curie Individual Fellowships (IF-EF)</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-IF-EF-ST - Standard EF</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>United Kingdom</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>StaGraM</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-IF-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>707220</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 175 419,60</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Association of Uranium with Organic Matter- and Iron-bearing Colloids in Wetland Environments</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 175 419,60</value>
+    </Total_Cost>
+    <Country>
+      <value>Switzerland</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+    </Activity>
+    <Technology_Description>In the context of decreasing water standards for uranium (U) concentrations in drinking water, the use of natural or constructed wetlands is often proposed for cost-effective small-scale water treatment. The underlying
+      mechanism is immobilization of the dissolved form of uranium, U(VI), through its reduction to a less mobile form, U(IV). However, the long-term stability of U(IV) species formed is not well understood. Indeed, a significant amount of U is found
+      labile, even in its reduced form, and contaminates the hydrologic network in several sites. Previous studies suggest that the colloidal phase is responsible for the dispersion of U(IV) in the watershed. In addition, it has been hypothesized that the
+      propensity of the colloidal phase to bind and mobilize U(IV) depends on the association of Fe with colloidal natural organic matter (NOM), and on the colloids conformation. However, these hypotheses need to be investigated and information is lacking
+      on the processes leading to the formation of the pressented vector of U(IV) dissemination, i.e. Fe-NOM colloids. Understanding these processes is crucial for predicting the efficiency of wetlands as traps of U water contamination. We propose to (i)
+      further characterize wetland colloids, in a broader panel of wetlands, and use correlation analysis to pinpoint factors controlling the NOM shape and its ability for Fe- and U-binding; (ii) test in batch experiments the effect of Fe sources on NOM
+      properties in solution; and (iii) test the reactivity of Fe-NOM colloids with U(IV) and identify the U(IV) binding mechanisms at molecular levels. The original approach proposed will help decision making for uses of wetland filters, and also generate
+      fundamental knowledge about NOM reactivity. The project involves the state-of-the-art expertise of the host institute (EPFL) about U geochemistry in wetlands, and the complementary expertise of Geneva University about characterization of colloidal
+      organic matter.</Technology_Description>
+    <To>
+      <value>2018-09-30, ongoing project</value>
+    </To>
+    <From>
+      <value>2016-10-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-IF-2015-EF - Marie Skłodowska-Curie Individual Fellowships (IF-EF)</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-IF-EF-ST - Standard EF</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Switzerland</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>UMIC</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-IF-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>701542</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>UNIVERSITAT DE BARCELONA</value>
+      <value>KOBENHAVNS UNIVERSITET</value>
+      <value>DEMOCRITUS UNIVERSITY OF THRACE</value>
+      <value>FERA SCIENCE LIMITED</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 526 500</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>KNOWLEDGE FOR PESTICIDES CONTROL</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 526 500</value>
+    </Total_Cost>
+    <Country>
+      <value>Spain</value>
+      <value>Denmark</value>
+      <value>Greece</value>
+      <value>United Kingdom</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>KKNOWPEC, Knowledge for pesticides control, aims to create a transnational research network between Europe and Latin America focused on the challenge of unwanted pesticides in the environment. KNOWPEC wants to identify the
+      occurrence and fate of banned and toxic pesticides in drinking and natural waters in agricultural areas of Latin America where knowledge on occurrence and risk is scarce. KNOWPEC wants to assess the environmental and potential human risks of the
+      pesticides detected, and to provide solutions for both reducing pollution at source, and remediating contaminated water. Together, KNOWPEC will promote the sharing of knowledge at each step from pesticide analysis, toxicity and risk assessment to
+      advanced treatment technologies that jointly enables the design of sustainable solutions to each pesticide pollution problem. Moreover, we want to create the tools of information and networking for a source of collaboration between European and Latin
+      America institutions under the framework of the environmental and human protection from pesticides.
+    </Technology_Description>
+    <To>
+      <value>2020-06-30, ongoing project</value>
+    </To>
+    <From>
+      <value>2016-07-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.3."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-RISE-2015 - Marie Skłodowska-Curie Research and Innovation Staff Exchange (RISE)</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-RISE - Marie Skłodowska-Curie Research and Innovation Staff Exchange (RISE)</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Spain</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>KNOWPEC</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-RISE-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>690618</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>UNIVERSITAT AUTONOMA DE BARCELONA</value>
+      <value>KUNGLIGA TEKNISKA HOEGSKOLAN</value>
+      <value>AERIS TECNOLOGÍAS AMBIENTALES S.L.</value>
+      <value>INNOVA BIC - BUSINESS INNOVATION CENTRE SRL</value>
+      <value>MERGUS PROMOTION HANDELSBOLAG</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 688 500</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>ADVANCED MULTIFUNCTIONAL NANOSTRUCTURED MATERIALS APPLIED TO REMOVE ARSENIC IN ARGENTINIAN GROUNDWATER</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 688 500</value>
+    </Total_Cost>
+    <Country>
+      <value>Spain</value>
+      <value>Sweden</value>
+      <value>Spain</value>
+      <value>Italy</value>
+      <value>Sweden</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Other</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+    </Activity>
+    <Technology_Description>Daily intake of arsenic polluted water by cattle in Argentina is becoming of increasing concern, especially due to the important size of the livestock export market where EU is a main customer. Because natural forage or
+      alfalfa grown without irrigation is used to feed livestock, drinking water is considered the main source of arsenic for cattle (several studies reveal arsenic concentrations in phreatic water samples above 0.15 mg/L, the level that suggest causing
+      chronic intoxication in cattle). Therefore, as it has been demonstrated, there is a risk of exposure for the human health due to the introduction in the food chain through milk or meat. In view of arsenic toxicity and the large number of people
+      exposed to its effects worldwide, there is a clear need for the implementation in remote exploitations of affordable and sustainable treatment methodologies to provide potable water to cattle. To face this problem and provide a solution, NANOREMOVAS
+      pursues to develop and implement a pilot plant for the remote treatment of arsenic polluted waters based on the application of state-of-art advanced multifunctional nanostructured materials, already tested at the laboratory level. In this sense,
+      NANOREMOVAS includes the cooperation between the industry and academia of partners from Europe and Argentina. Besides the required research and innovation to demonstrate the technical and economic feasibility of the developed water recycling
+      technique, the seconded researchers will carry out a series of tasks and outreach activities, promoting entrepreneurship culture and support of young innovative companies in order to set-up technological partnerships within the water and livestock
+      sector. Furthermore, NANOREMOVAS represents a significant contribution to knowledge and technology transfer from the academia to the industrial sector, through the partners well established reputation as transfer hubs, that will led to quickly
+      creating designs and industrial equipment/processes/model</Technology_Description>
+    <To>
+      <value>2018-12-31, ongoing project</value>
+    </To>
+    <From>
+      <value>2015-01-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.3."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-RISE-2014 - Marie Skłodowska-Curie Research and Innovation Staff Exchange (RISE)</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-RISE - Marie Skłodowska-Curie Research and Innovation Staff Exchange (RISE)</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Spain</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>NANOREMOVAS</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-RISE-2014</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>645024</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>UNIVERSITEIT TWENTE</value>
+      <value>UNIVERSITEIT TWENTE</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 1 500 000</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Sustainable and Advanced Membranes By Aqueous Phase Separation</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 1 500 000</value>
+    </Total_Cost>
+    <Country>
+      <value>Netherlands</value>
+      <value>Netherlands</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+    </Activity>
+    <Technology_Description>Membranes play a critical role in the production of safe drinking water and in the treatment of human waste streams. However, membranes themselves are nearly always produced using costly, harmful and environmentally unfriendly
+      aprotic solvents such as N-methyl-pyrrolidone (NMP), dimethylformamide (DMF), or dimethylacetamide (DMAC). This proposal describes a highly novel approach allowing the production of the next generation of advanced membranes without the need to use
+      any organic solvents. Here we make use of so-called responsive polymers that can switch under aqueous conditions from a hydrophilic to a hydrophobic state by a simple change of, for example, pH. In the hydrophilic state, water dissolves the polymers
+      and the so obtained solution can be cast as a thin film. Sudden immersion in a bath at a pH where the polymer becomes hydrophobic, leads to very sudden phase separation whereby the polymer coagulates into a porous film, a membrane. Control over the
+      kinetics of this aqueous phase separation process allows for the fabrication of a large variety of porous structures. Furthermore, this process also works for two oppositely charged polymers, where polyelectrolyte complexation is used to induce phase
+      separation. Crosslinking will be a natural way to guarantee membrane stability but can also be used to further modify/improve membranes. The very nature of this aqueous phase separation process is such that membrane additives that are typically
+      associated with advanced membranes (responsive polymers, enzymes, polyzwitterions, metallic nanoparticles) can readily be incorporated. As such, aqueous phase separation not only allows solvent free membrane production, it also provides a very simple
+      and versatile route for the production of membranes with advanced properties. Finally, the porous structures and novel materials developed within this project could be directly useful for other applications, ranging from adsorption processes and
+      coatings to biomedical materials.</Technology_Description>
+    <To>
+      <value>2021-12-31, ongoing project</value>
+    </To>
+    <From>
+      <value>2017-01-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>ERC-2016-STG - ERC Starting Grant</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>ERC-STG - Starting Grant</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Netherlands</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>SAMBA</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>ERC-2016-STG</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>714744</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>UNIVERSITY OF CYPRUS</value>
+      <value>ENVIRONMENTAL INSTITUTE s.r.o.</value>
+      <value>KWR WATER B.V.</value>
+      <value>THE AGRICULTURAL RESEARCH ORGANISATION OF ISRAEL - THE VOLCANI CENTRE</value>
+      <value>AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS</value>
+      <value>ADVENTECH - ADVANCED ENVIRONMENTAL TECHNOLOGIES LDA</value>
+      <value>UNIVERSIDADE CATOLICA PORTUGUESA</value>
+      <value>TECHNISCHE UNIVERSITAET DRESDEN</value>
+      <value>UNIVERSITA DEGLI STUDI DI SALERNO</value>
+      <value>TECHNISCHE UNIVERSITAET WIEN</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 3 708 689,76</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>ANtibioticS and mobile resistance elements in WastEwater Reuse applications: risks and innovative solutions</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 3 708 689,76</value>
+    </Total_Cost>
+    <Country>
+      <value>Cyprus</value>
+      <value>Slovakia</value>
+      <value>Netherlands</value>
+      <value>Israel</value>
+      <value>Spain</value>
+      <value>Portugal</value>
+      <value>Portugal</value>
+      <value>Germany</value>
+      <value>Italy</value>
+      <value>Austria</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)</value>
+      <value>Research Organisations</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Higher or Secondary Education Establishments</value>
+    </Activity>
+    <Technology_Description>In response to the increasing problem of water shortage, the reuse of treated urban wastewater is considered the most suitable and reliable alternative for sustainable water management and agricultural development. In spite of
+      the benefits associated with this practice, major concerns currently exist, related to the adverse effects regarding chemical and biological contaminants of emerging concern such as antibiotics and mobile antibiotic resistance elements such as
+      antibiotic resistant bacteria and resistance genes. These are now considered as a serious public health problem by various international organizations and the European Commission, because of their spread in the environment, the food chain, drinking
+      water, etc. To tackle these problems, scientists with an interdisciplinary research/training background are urgently needed. This ETN will train a new generation of ESRs to address the risks associated with such contaminants and wastewater reuse.
+      Innovative chemical, microbiological, toxicological and modelling tools, and novel process engineering will form the scientific and training core of their innovative research projects and training. The project will contribute to understanding the
+      fate and transmission of antibiotics and resistance from wastewater to the environment and humans, through soil, ground/surface water and crops. Relevant ELVs will be determined, essential for the development and implementation of regulatory
+      frameworks. This project directly tackles these aspects, by bringing together a multidisciplinary research team, with the private sector, and policy makers and through communication activities towards stakeholders and the wider public.</Technology_Description>
+    <To>
+      <value>2019-09-30, ongoing project</value>
+    </To>
+    <From>
+      <value>2015-10-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-ITN-2015-ETN - Marie Skłodowska-Curie Innovative Training Networks (ITN-ETN)</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-ITN-ETN - European Training Networks</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Cyprus</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>ANSWER</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-ITN-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>675530</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>BANGOR UNIVERSITY</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 183 454,80</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Microbial communities of Temperate, Artic and Tropical peatlands and their role in the response of carbon storage function to global change</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 183 454,80</value>
+    </Total_Cost>
+    <Country>
+      <value>United Kingdom</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+    </Activity>
+    <Technology_Description>The present proposal aim at understanding microbial role in peatland sensitivity to climate change at a Global Scale. Peatlands represent one of the most important terrestrial carbon pools, despite they only cover 3% of the
+      earth’s surface they store one third of all terrestrial carbon. This ecosystem has shown to be sensitive to different disturbances in terms of their carbon storage capacity and it is expected a huge CO2 and CH4 release as well as an increase in
+      dissolved organic carbon exportation to freshwater systems, due to climate change. Peatlands cover large extensions in arctic and temperate zones, but they are also present in tropical regions were their ecology and functioning is almost unknown. Due
+      to the valuable peatland role as carbon sink there has been many intents to find out the effect of global change on their functioning, however we are still far to totally comprehend and predict this effect, existing important unsolved questions on
+      the role of microbial decomposer communities (Fungi, Bacteria and Archaea), the structure-function relationship, and so far, none study has assessed the climate change impact at global scale. In order to fill these gaps I propose to survey the
+      microbial communities in Arctic, Temperate and Tropical peatlands and test how differences in origin-legacy can drive peatlands sensitivity to drought events. The proposed methodology is an interdisciplinary approach (combining molecular thechniques,
+      ecosystem measurements and biogeochemistry) with three big components: 1) initial field work study to systematically assess microbial communities from the 3 regions; 2) a microcosm experiment to test the effect of drought (water table reduction) on
+      peatland functioning; 3) a secondment in a drinking water company to put into a management context the results, as these companies are interested in the by-product formation problem thanks to the DOC enhancing in water supplies due to the loss of
+      peatlands storage capacity.</Technology_Description>
+    <To>
+      <value>2018-04-30, ongoing project</value>
+    </To>
+    <From>
+      <value>2016-05-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-IF-2015-EF - Marie Skłodowska-Curie Individual Fellowships (IF-EF)</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-IF-EF-ST - Standard EF</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>United Kingdom</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>MicroPEAT</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-IF-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>706616</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>SWANSEA UNIVERSITY</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 195 454,80</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Electrochemical Graphene Sensors as Early Alert Tools for Algal Toxin Detection in Water</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 195 454,80</value>
+    </Total_Cost>
+    <Country>
+      <value>United Kingdom</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+    </Activity>
+    <Technology_Description>Episodes of harmful blue algae blooms and the associated algal toxin microcystin-LR (MC-LR) occur frequently in bodies of water worldwide as consequences of eutrophication resulting from anthropogenic activities such as
+      agricultural run-off, urban waste, and manufacturing of detergents and global warming. It had been confirmed that microcystins were responsible for some poisonings of animals and humans where water sources contained toxic cyanobacteria blooms.
+      Microcystins were potent and specific in inhibiting protein phosphatases 1 and 2A (PPl, PP2A). Acute or prolonged exposure to microcystins would cause liver damage, followed by a massive intrahepatic hemorrhage and probably leading to death. In 1998,
+      the provisional guideline concentration limit of 1 μg/L MC-LR in drinking water was assigned by the World Health Organization (WHO). The development of reliable methods for monitoring MC-LR in water resources is of great interest to determine the
+      occurrence and to prevent exposure to the toxin. Several methods have been developed to detect MC-LR, such as high-performance liquid chromatography/mass spectrometry (HPLC/MS) , bio-, biochemical- and immune-assays, which require long processing
+      times, sophisticated instruments, complex procedures, or high processing cost and are in general used in the laboratory, not in situ. A sensitive, specific, simple, and rapid method for monitoring MC-LR could help to prevent exposure to the toxin.
+      The unique physical and electrochemical properties (e.g., high electrical conductivity, ease of functionalization, high electrochemically active surface area, and broad range of working potentials in aqueous solutions) of graphene make them a
+      candidate material for developing novel and fit-for-purpose electrochemical biosensors/immunosensors as alternatives to the time-consuming, expensive, non-portable and often skills-demanding conventional methods of analysis involved in water quality
+      assessment.</Technology_Description>
+    <To>
+      <value>2019-09-25, ongoing project</value>
+    </To>
+    <From>
+      <value>2017-09-26</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-IF-2016 - Individual Fellowships</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-IF-EF-ST - Standard EF</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>United Kingdom</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>GrapheneBiosensor</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-IF-2016</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>743993</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>Institut Català de Recerca de l'Aigua, Fundació Privada</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 170 121,60</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Groundwater quality assessment in areas with intensive livestock: is manure recycling a major source of pollution and dissemination of antibiotic resistance genes?”</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 170 121,60</value>
+    </Total_Cost>
+    <Country>
+      <value>Spain</value>
+    </Country>
+    <Activity>
+      <value>Research Organisations</value>
+    </Activity>
+    <Technology_Description>Groundwater protection is one of the latest environmental battlegrounds in Europe. It is used as a major source for drinking water production all over Europe and as such, the preservation of its chemical and microbiological
+      quality is of vital importance. In agricultural areas with intensive livestock activities, groundwater quality might be seriously compromised by the excessive use of manure as organic fertilizer. Animal manure may contain high levels of organic
+      contaminants (e.g. antibiotics, nitrogen-containing compounds) and bacteria carrying antibiotic resistance genes (ARGs), and its reuse as soil amendment could be an important route of entry of these pollutants into groundwater bodies. This project
+      aims at broadening the knowledge about the role of animal manure recycling as a major source of groundwater pollution by: (i) analyzing selected multiple-class antibiotics and ARGs and (ii) using an innovative approach, based on the bulk
+      characterization of dissolved organic matter (DOM) by high resolution mass spectrometry (HRMS), to uncover the chemical pattern of selected manure-impacted groundwater bodies, used as sources for drinking water production, and provide evidence about
+      the role of manure recycling as a major source of aquifer pollution. RESOURCE is a project with high societal relevance in Spain. The shutdown of large scale manure treatment plants in 2014 and the subsequent generation of large amounts of untreated
+      waste might endanger the good chemical and microbiological status of drinking water wells. Thus, the outcomes of this project will be highly valuable to assess the current status of groundwater bodies and will contribute in preventing serious
+      environmental and human health issues. The fellow’s expertise, gathered in international top research institutions and the outstanding infrastructure and capabilities available at ICRA, makes an ideal conjunction for the successful completion of the
+      project.</Technology_Description>
+    <To>
+      <value>2019-10-01, ongoing project</value>
+    </To>
+    <From>
+      <value>2017-10-02</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-IF-2016 - Individual Fellowships</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-IF-EF-ST - Standard EF</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Spain</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>RESOURCE</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-IF-2016</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>750104</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>EIDGENOESSISCHE ANSTALT FUER WASSERVERSORGUNG ABWASSERREINIGUNG UND GEWAESSERSCHUTZ</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 175 419,60</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Spatial and temporal biotransformation of micropollutants in a lake ecosystem</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 175 419,60</value>
+    </Total_Cost>
+    <Country>
+      <value>Switzerland</value>
+    </Country>
+    <Activity>
+      <value>Research Organisations</value>
+    </Activity>
+    <Technology_Description>Freshwaters are increasingly contaminated with a variety of pesticides, pharmaceuticals, personal care product ingredients and industrial chemicals referred as “micropollutants” (MPs). Most of these MPs are poorly retained by
+      wastewater treatment plants, and thus are released into natural water bodies, where they can travel all the way to the raw water of drinking water treatment plants. Very little information is currently available on the persistence and transformation
+      of MPs in lake ecosystems. This project aims to investigate the fate of twelve MPs in lake Greifensee in Switzerland by measuring their transformation rates at different depths and seasons. To this end, lake water will be sampled at different depths
+      in Lake Greifensee, and natural microbial communities (bacteria and phytoplankton) will be exposed to a mixture of different MPs using semipermeable plastic bags that will be redeployed to their original depth. The bags will let gases, salts and ions
+      be exchanged with the outside environment, but will retain MPs and microorganisms inside the bag. At regular intervals, MP concentrations and their transformation products in the bags will be determined in order to calculate biotransformation rates
+      of MPs at different depths of the lake. Phytoplankton and bacteria communities will be analyzed to assess the role of microorganisms in MP transformation using cutting edge “omics” methods such as metagenomics. This project will be unique in that it
+      actually quantitatively describes the extent of MP biotransformation in situ, and thus eliminates many of the uncertainties involved in estimating in-field biodegradation based on laboratory experiments. It will also bring more in-depth knowledge on
+      the drivers of biotransformation, whether they are of bacteria or phytoplankton origin. This project will hence foster improved risk assessment and management of the release of contaminants into the environment.</Technology_Description>
+    <To>
+      <value>2019-09-04, ongoing project</value>
+    </To>
+    <From>
+      <value>2017-09-05</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-IF-2016 - Individual Fellowships</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-IF-EF-ST - Standard EF</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Switzerland</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>LakeMP</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-IF-2016</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>750700</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>KOBENHAVNS UNIVERSITET</value>
+      <value>HELMHOLTZ-ZENTRUM FUER UMWELTFORSCHUNG GMBH - UFZ</value>
+      <value>Masarykova univerzita</value>
+      <value>AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS</value>
+      <value>EIDGENOESSISCHES DEPARTEMENT FUER WIRTSCHAFT, BILDUNG UND FORSCHUNG</value>
+      <value>PROFESSIONSHOJSKOLEN METROPOL</value>
+      <value>EIDGENOESSISCHE ANSTALT FUER WASSERVERSORGUNG ABWASSERREINIGUNG UND GEWAESSERSCHUTZ</value>
+      <value>HOFOR AS</value>
+      <value>FERA SCIENCE LIMITED</value>
+      <value>STOCKHOLMS UNIVERSITET</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 3 976 833,96</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Natural Toxins and Drinking Water Quality - From Source to Tap</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 3 976 833,96</value>
+    </Total_Cost>
+    <Country>
+      <value>Denmark</value>
+      <value>Germany</value>
+      <value>Czech Republic</value>
+      <value>Spain</value>
+      <value>Switzerland</value>
+      <value>Denmark</value>
+      <value>Switzerland</value>
+      <value>Denmark</value>
+      <value>United Kingdom</value>
+      <value>Sweden</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Research Organisations</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Research Organisations</value>
+      <value>Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)</value>
+      <value>Higher or Secondary Education Establishments</value>
+      <value>Research Organisations</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Private for-profit entities (excluding Higher or Secondary Education Establishments)</value>
+      <value>Higher or Secondary Education Establishments</value>
+    </Activity>
+    <Technology_Description>Clean drinking water is crucial to human health and wellbeing. The ambition of the NaToxAq ETN network is to expand the research basis for EU’s leading role in securing high quality drinking waters for its citizens. Focus is
+      on natural toxins – a large group of emerging contaminants with unknown impact on drinking water resources. Both known toxins, like cyanotoxins, cyanogenic glucosides and terpenes and not yet explored toxins will be investigated. Twenty leading
+      universities, research institutions, and water enterprises will pioneer the field through joint training of 15 ESRs investigating natural toxin emission via water reservoirs to water works and consumers. The natural toxin challenge is addressed by
+      the concerted work of the ESRs within 4 scientific work packages comprising origin, distribution, fate and remediation. Priority toxins are selected using in silico approaches accompanied by novel non-targeted and targeted analyses to map natural
+      toxins along vegetation and climatic gradients in Europe. Invasion of alien species, toxin emission, leaching and dissipation will be under strong influence of climate change. Data collected for toxin emission, properties and fate will be used to
+      model effects of climate, land use, and design of remediation actions. Special attention will be paid to toxin removal at water works including development of new technologies tailored to remove natural toxins. The results will contribute to
+      strengthening of European policies and regulation of drinking water, while new business opportunities within the fields of water supply and treatment, chemical monitoring and sensing, and the consulting sector will arise from academia-indstry
+      collaborations. The urgency of the challenge, its eminent knowledge gaps, its multifaceted and multidisciplinary nature, and the need for scientific and public awareness to be communicated by ESRs in a balanced way makes the topic ideal for a
+      European mobility and training network.</Technology_Description>
+    <To>
+      <value>2020-12-31, ongoing project</value>
+    </To>
+    <From>
+      <value>2017-01-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.1."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-ITN-2016 - Innovative Training Networks</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-ITN-ETN - European Training Networks</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Denmark</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>NaToxAq</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-ITN-2016</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>722493</value>
+    </Project_ID>
+  </item>
+  <item>
+    <Partners>
+      <value>GOETEBORGS UNIVERSITET</value>
+    </Partners>
+    <EU_Contribution>
+      <value>EUR 173 857,20</value>
+    </EU_Contribution>
+    <Project_Title>
+      <value>Defining the Role of Antioxidants on Cancer progression and metastasis</value>
+    </Project_Title>
+    <Total_Cost>
+      <value>EUR 173 857,20</value>
+    </Total_Cost>
+    <Country>
+      <value>Sweden</value>
+    </Country>
+    <Activity>
+      <value>Higher or Secondary Education Establishments</value>
+    </Activity>
+    <Technology_Description>Antioxidants, by neutralizing ROS and ROS-induced DNA damages, are thought to protect against cancer. Recently this common view was challenged by the observation that antioxidants may accelerate tumor progression in mouse
+      models of lung cancer, by turning down the DNA-damage-gH2AX-p53 signaling pathway. This study raised new questions: Are antioxidants able to induce metastasis from benign tumors, by silencing p53 expression? Are cytosolic ROS equivalent to
+      mitochondrial ROS for lung cancer progression?</Technology_Description>
+    <To>
+      <value>2018-02-28, Grant Agreement terminated</value>
+    </To>
+    <From>
+      <value>2016-03-01</value>
+    </From>
+    <Meta>
+      <value>&lt;meta name="WT.cg_s" content="H2020-EU.1.3.2."&gt;</value>
+    </Meta>
+    <Topic_s>
+      <value>MSCA-IF-2015-EF - Marie Skłodowska-Curie Individual Fellowships (IF-EF)</value>
+    </Topic_s>
+    <Funding_scheme>
+      <value>MSCA-IF-EF-ST - Standard EF</value>
+    </Funding_scheme>
+    <Coordinated_in>
+      <value>Sweden</value>
+    </Coordinated_in>
+    <Project_ACR>
+      <value>RAC</value>
+    </Project_ACR>
+    <Call_for_Proposal>
+      <value>H2020-MSCA-IF-2015</value>
+    </Call_for_Proposal>
+    <Project_ID>
+      <value>707700</value>
+    </Project_ID>
+  </item>
+</items>
