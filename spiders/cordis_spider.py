@@ -6,15 +6,18 @@ from scrapy.spider import BaseSpider
 
 class CordisSpider(scrapy.Spider):
     name = 'cordis'
-    f = open("urls.txt")
-    start_urls = [url.strip() for url in f.readlines()]
-    f.close()
-    # allowed_domains = ['cordis.europa.eu']
-    # start_urls = ['http://cordis.europa.eu/project/rcn/%d_en.html' %(n) for n in range(210216, 210217)]
+    # f = open("urls.txt")
+    # start_urls = [url.strip() for url in f.readlines()]
+    # f.close()
+    allowed_domains = ['cordis.europa.eu']
+    start_urls = ['http://cordis.europa.eu/project/rcn/%d_en.html' %(n) for n in range(210216, 210217)]
 
+    # def parse_keywordpage(self, response):
+    #      if water in response.xpath('//*[@id="ica:content"]'):
     def parse(self, response):
         # Misconfiguration to check - eu in response.xpath not needed
         #for eu in response.xpath('//*[@id="container-pack"]'):
+        if response.xpath('//*[@id="ica:content"][contains(.,"water")]'):
             item = CordisItem()
             item['Meta'] = response.xpath('/html/head/meta[23]').extract()
             item['Project_ACR'] = response.xpath('//*[@id="dynamiccontent"]/div[1]/h1/text()').extract()
@@ -34,4 +37,4 @@ class CordisSpider(scrapy.Spider):
 
         #for eu in response.css('div.objective'):
             item['Technology_Description'] = response.css('p::text').extract_first()
-            yield item
+        yield item

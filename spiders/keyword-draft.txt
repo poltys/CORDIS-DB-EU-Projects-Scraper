@@ -1,0 +1,3 @@
+def parse_keywordpage(self, response):
+    if keyword in response.body:
+        #do something
