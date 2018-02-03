@@ -33,7 +33,7 @@ Run ```scrapy crawl cordis -o "filename"."extension"```.
   f.close()
   ```
 
-* You can decide to scrape which information extract by modifying the keywords ```if response.xpath('//*[@id="ica:content"][contains(.,"water") and contains(.,"drinking water")]'):```
+* You can decide which information extract by modifying the keywords ```if response.xpath('//*[@id="ica:content"][contains(.,"water") and contains(.,"drinking water")]'):```
 
 ### Data Sample [STOP-IT H2020 Project](http://cordis.europa.eu/project/rcn/210216_en.html)
 
