@@ -8,6 +8,8 @@ This project aims to download information about European Funded Projects from th
 * Data-Journalism
 * Create an 'almost' ready-to-use DB
 
+* In the present case this scraper aims to gather information about european funded projects focusing on water to support the revision of the water framework directive.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
