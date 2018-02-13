@@ -17,7 +17,7 @@ class CordisSpider(scrapy.Spider):
     def parse(self, response):
         # Misconfiguration to check - eu in response.xpath not needed
         #for eu in response.xpath('//*[@id="container-pack"]'):
-        if response.xpath('//*[@id="ica:content"][contains(.,"water") and contains(.,"drinking water")]'):
+        if response.xpath('//*[@id="ica:content"][contains(.,"water") or contains(.,"drinking") or contains(.,"nitrates")]'):
             item = CordisItem()
             item['Meta'] = response.xpath('/html/head/meta[23]').extract()
             item['Project_ACR'] = response.xpath('//*[@id="dynamiccontent"]/div[1]/h1/text()').extract()
