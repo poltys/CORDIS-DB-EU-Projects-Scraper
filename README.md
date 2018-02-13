@@ -37,6 +37,8 @@ Run ```scrapy crawl cordis -o "filename"."extension"```.
 
 * You can decide which information extract by modifying the keywords ```if response.xpath('//*[@id="ica:content"][contains(.,"water") and contains(.,"drinking water")]'):```
 
+* You can play with multiple conditions ```if response.xpath('//*[@id="ica:content"][contains(.,"water") or contains(.,"drinking")]') and response.xpath('//*[@id="dynamiccontent"]/div[3]/div/div[2]/div[3]/text()[contains(.,"SME")]') and response.css('.name').xpath('text()[contains(.,"RENEW TECHNOLOGIES LTD")]'):```
+
 ### Data Sample [STOP-IT H2020 Project](http://cordis.europa.eu/project/rcn/210216_en.html)
 
 Scrapy gives you the opportunity to download your data in different formats: csv, jl, json, xml.
