@@ -16,8 +16,9 @@ class CordisSpider(scrapy.Spider):
     #      if water in response.xpath('//*[@id="ica:content"]'):
     def parse(self, response):
         # Misconfiguration to check - eu in response.xpath not needed
-        #for eu in response.xpath('//*[@id="container-pack"]'):
-        if response.xpath('//*[@id="ica:content"][contains(.,"water") or contains(.,"drinking") or contains(.,"nitrates")]'):
+        # for eu in response.xpath('//*[@id="container-pack"]'):
+        # second if -> and response.css('[p::text][contains(.,"the")]') STAD ANTWERPEN
+        if response.xpath('//*[@id="ica:content"][contains(.,"water") or contains(.,"drinking")]') and response.xpath('//*[@id="dynamiccontent"]/div[3]/div/div[2]/div[3]/text()[contains(.,"SME")]') and response.css('.name').xpath('text()[contains(.,"RENEW TECHNOLOGIES LTD")]'):
             item = CordisItem()
             item['Meta'] = response.xpath('/html/head/meta[23]').extract()
             item['Project_ACR'] = response.xpath('//*[@id="dynamiccontent"]/div[1]/h1/text()').extract()
