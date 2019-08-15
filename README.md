@@ -1,5 +1,8 @@
 # CORDIS-DB-EU-Projects-Scraper
 
+# Disclaimer: the following project is discontinued.
+
+
 This project aims to download information about European Funded Projects from the [CORDIS DB](http://cordis.europa.eu/home_en.html).
 
 ### Goals
